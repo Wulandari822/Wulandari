@@ -1,0 +1,16 @@
+body {
+  background-color: blanchedalmond;
+}
+.w {
+  height: 100px;
+  border-radius: 50%;
+  float: left;
+}
+.u {
+  width: 65%;
+  float: left;
+  font-weight: 600;
+}
+* {
+  font-family: oswald, sans-serif;
+}
